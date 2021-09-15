@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "com.jpmcInterview.labs.validation.ApplicationProps",
+      "sourceType": "com.jpmcInterview.labs.validation.ApplicationProps"
+    }
+  ],
+  "properties": [
+    {
+      "name": "application.providers",
+      "type": "java.util.List<com.jpmcInterview.labs.validation.dto.Provider>",
+      "sourceType": "com.jpmcInterview.labs.validation.ApplicationProps"
+    }
+  ],
+  "hints": []
+}
